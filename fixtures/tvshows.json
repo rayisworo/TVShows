@@ -1,0 +1,558 @@
+[
+    {
+        "score": 18.536875,
+        "show": {
+            "id": 171,
+            "url": "https://www.tvmaze.com/shows/171/how-i-met-your-mother",
+            "name": "How I Met Your Mother",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2005-09-19",
+            "officialSite": "http://www.cbs.com/shows/how_i_met_your_mother",
+            "schedule": {
+                "time": "20:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": 7.9
+            },
+            "weight": 94,
+            "network": {
+                "id": 2,
+                "name": "CBS",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 3918,
+                "thetvdb": 75760,
+                "imdb": "tt0460649"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2451.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2451.jpg"
+            },
+            "summary": "<p><b>How I Met Your Mother</b> is a comedy about Ted and how he fell in love. It all starts when Ted's best friend, Marshall drops the bombshell that he's going to propose to his long-time girlfriend, Lilya kindergarten teacher. At that moment, Ted realizes that he had better get a move on if he too hopes to find true love. Helping him in his quest is Barney a friend with endless, sometimes outrageous opinions, a penchant for suits and a foolproof way to meet women. When Ted meets Robin he's sure it's love at first sight, but destiny may have something else in store.</p>",
+            "updated": 1619085621,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/171"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/12492"
+                }
+            }
+        }
+    },
+    {
+        "score": 18.238117,
+        "show": {
+            "id": 54887,
+            "url": "https://www.tvmaze.com/shows/54887/how-i-met-your-father",
+            "name": "How I Met Your Father",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [],
+            "status": "In Development",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 95,
+            "network": null,
+            "webChannel": {
+                "id": 2,
+                "name": "Hulu",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 401513,
+                "imdb": null
+            },
+            "image": null,
+            "summary": null,
+            "updated": 1619079201,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/54887"
+                }
+            }
+        }
+    },
+    {
+        "score": 15.942342,
+        "show": {
+            "id": 30281,
+            "url": "https://www.tvmaze.com/shows/30281/how-close-can-i-beach",
+            "name": "How Close Can I Beach?",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Running",
+            "runtime": 30,
+            "premiered": "2017-07-09",
+            "officialSite": "http://www.hgtv.com/shows/how-close-can-i-beach",
+            "schedule": {
+                "time": "23:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 192,
+                "name": "HGTV",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/119/299688.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/119/299688.jpg"
+            },
+            "summary": "<p>In <b>How Close Can I Beach?</b>, buyers with dreams of living near the sand and surf learn that sometimes the ideal house may not be right on the beach. They'll tour different homes that offer the beach lifestyle at varying distances to the shore and witness firsthand the clear differences in space, amenities and views these homes offer. After carefully considering their options, they'll decide how close to the beach their dream house will be.</p>",
+            "updated": 1610380652,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/30281"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1647418"
+                }
+            }
+        }
+    },
+    {
+        "score": 14.696238,
+        "show": {
+            "id": 10596,
+            "url": "https://www.tvmaze.com/shows/10596/how-i-made-my-millions",
+            "name": "How I Made My Millions",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "premiered": "2011-02-17",
+            "officialSite": "http://www.cnbc.com/how-i-made-my-millions/",
+            "schedule": {
+                "time": "16:00",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 52,
+            "network": {
+                "id": 93,
+                "name": "CNBC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89262.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/89262.jpg"
+            },
+            "summary": "<p>CNBC's <i><b>\"How I Made My Millions\"</b></i> goes behind the curtain to reveal how everyday people have taken ordinary ideas and turned them in extraordinary businesses. Companies that have surpassed that magic number of $1 million. Each of these entrepreneurs took a risk, believed in their dream and, thanks to a lot of hard work and a little luck, became millionaires. \"How I Made My Millions\" puts the American Dream on display and shows you that it's alive and well if you have the heart, the desire and the know-how to make it big.</p>",
+            "updated": 1450833060,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/10596"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/542233"
+                }
+            }
+        }
+    },
+    {
+        "score": 13.810185,
+        "show": {
+            "id": 34280,
+            "url": "https://www.tvmaze.com/shows/34280/how-should-i-be",
+            "name": "How Should I Be?",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Drama",
+                "Family"
+            ],
+            "status": "Ended",
+            "runtime": 40,
+            "premiered": "2001-04-01",
+            "officialSite": "http://www.imbc.com/tv/drama/like/index.html",
+            "schedule": {
+                "time": "09:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 166,
+                "name": "MBC",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353756.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353756.jpg"
+            },
+            "summary": null,
+            "updated": 1515271378,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/34280"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1385184"
+                }
+            }
+        }
+    },
+    {
+        "score": 13.810185,
+        "show": {
+            "id": 24601,
+            "url": "https://www.tvmaze.com/shows/24601/how-i-rock-it",
+            "name": "How I Rock It",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 30,
+            "premiered": "2013-11-20",
+            "officialSite": null,
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 14,
+            "network": {
+                "id": 184,
+                "name": "Esquire Network",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 275522,
+                "imdb": "tt3031688"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235030.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235030.jpg"
+            },
+            "summary": "<p>Host and NBA superstar Baron Davis profiles the athletes, musicians, celebrities, designers, influencers and street-style icons who are setting a stylish new standard for today's man. From Jason Lee's love of custom motorcycles to Mr. Cartoon's astonishing tattoos. From John Varvatos' rock and roll clothing line to Marcus Samuelsson's brand new restaurant. They all share one thing in common: a passion for expressing themselves through personal style.</p>",
+            "updated": 1562589189,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/24601"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1044698"
+                }
+            }
+        }
+    },
+    {
+        "score": 12.285492,
+        "show": {
+            "id": 38474,
+            "url": "https://www.tvmaze.com/shows/38474/how-i-caught-the-killer",
+            "name": "How I Caught the Killer",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [
+                "Crime"
+            ],
+            "status": "Running",
+            "runtime": 60,
+            "premiered": "2018-09-13",
+            "officialSite": "https://www.sky.com/watch/title/series/9d9f4a65-878c-4a43-a8c0-f8661a67163a",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 44,
+                "name": "Sky Witness",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 352886,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/420308.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420308.jpg"
+            },
+            "summary": "<p><b>How I Caught the Killer</b> looks at what it's like for police officers working on murder cases. The series focuses on the people who have solved some of the most difficult murders in the UK and the U.S.</p><p>With exclusive officer accounts from the scene of the crime, evidence and reconstructions, <i>How I Caught the Killer</i> spotlights a variety of murders and officers who made critical discoveries during investigations, including the analysis from the detectives to the forensic analysis of the CSIs and the role of family liaison officers.</p>",
+            "updated": 1612420552,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/38474"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2018094"
+                }
+            }
+        }
+    },
+    {
+        "score": 11.088341,
+        "show": {
+            "id": 17758,
+            "url": "https://www.tvmaze.com/shows/17758/guess-how-much-i-love-you",
+            "name": "Guess How Much I Love You",
+            "type": "Animation",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 11,
+            "premiered": "2012-08-31",
+            "officialSite": "http://www.disney.com.au/disneyjunior/guess-how-much-i-love-you/",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 7,
+            "network": {
+                "id": 78,
+                "name": "Disney Channel",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 258411,
+                "imdb": "tt227985"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/59/149567.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/59/149567.jpg"
+            },
+            "summary": "<p><b>Guess How Much I Love You</b> is a children's television show adapted from the children's book of the same name. </p>",
+            "updated": 1499363021,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/17758"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/810830"
+                }
+            }
+        }
+    },
+    {
+        "score": 10.063419,
+        "show": {
+            "id": 36603,
+            "url": "https://www.tvmaze.com/shows/36603/thats-how-i-lost-the-last-one",
+            "name": "That's How I Lost the Last One",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": null,
+            "premiered": "2018-05-05",
+            "officialSite": "http://www.cc.com/shows/thats-how-i-lost-the-last-one",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 23,
+                "name": "Comedy Central",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 347340,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/173/433128.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/173/433128.jpg"
+            },
+            "summary": "<p>In this series written and directed by Zane Rubin, Jake Weisman stars as Myra, a man who's not exactly boyfriend material. Each episode looks at how Myra manages to sabotage his most recent relationship. Time and time again, Myra proves to be unlucky in love – mostly by his own design.</p>",
+            "updated": 1574818170,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/36603"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1555872"
+                }
+            }
+        }
+    },
+    {
+        "score": 2.5500908,
+        "show": {
+            "id": 42863,
+            "url": "https://www.tvmaze.com/shows/42863/se-eu-fechar-os-olhos-agora",
+            "name": "Se Eu Fechar Os Olhos Agora",
+            "type": "Scripted",
+            "language": "Portuguese",
+            "genres": [
+                "Drama",
+                "Crime",
+                "Mystery"
+            ],
+            "status": "Ended",
+            "runtime": 45,
+            "premiered": "2019-04-15",
+            "officialSite": "https://gshow.globo.com/series/se-eu-fechar-os-olhos-agora/",
+            "schedule": {
+                "time": "22:30",
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 374,
+                "name": "Rede Globo",
+                "country": {
+                    "name": "Brazil",
+                    "code": "BR",
+                    "timezone": "America/Noronha"
+                }
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 335415,
+                "imdb": "tt8951938"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/204/510033.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/510033.jpg"
+            },
+            "summary": "<p>Two young men find a woman's mutilated body by the lake. After the two teenagers call the police, they are brutally interrogated. Soon enough, the victim's identity is revealed: she was the wife of a dentist, who confesses the murder to the police. The news spreads like fire and quickly finds its way into the party at the mayor's house, where the most affluent public figures of the region are in attendance. A huge commotion ensues. The chief of police is quick to declare the case has already been solved. The mayor sighs with relief. His political aspirations would have been shattered if the brutal murder ended up on the front page of the local newspapers. The local journalist, frustrated with the lack of police reports filed in the town, used to spending most of his time covering local social events for the gossip page of the paper and republishing news stories from regional news outlets and. To him, the murder is the chance of a lifetime. He is convinced the victim's elderly husband is way too delicate and feeble to have carried out such a brutal attack. As soon as the young reporter starts digging deeper into the facts, he dies in a rather suspicious fire. With the experience of finding the body still etched into their memory and intrigued by the recent tragedies, the two teenage boys decide to investigate on their own. After all, what harm could possibly come from a bit of adventure?</p>",
+            "updated": 1562484281,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/42863"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1677638"
+                }
+            }
+        }
+    }
+]
